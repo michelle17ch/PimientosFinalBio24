@@ -8,6 +8,6 @@ Este proyecto tiene como objetivo principal explorar y comprender las relaciones
 
 **Variedades de pimientos:** Los frutos pueden variar en forma y tamaño 
 
-<iframe src="https://www.youtube.com/embed/FcEL3JuhyVY?si=Mu0Iv0_F32I0vSqo"data-external= "1" width="560" height="315"> </iframe>
+<iframe src="https://www.youtube.com/embed/FcEL3JuhyVY?si=Mu0Iv0_F32I0vSqo"data-external= "1" width="560" height="315"></iframe>
 
 **Historia y Origen del Pimiento** 
